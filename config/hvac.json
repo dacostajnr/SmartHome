@@ -1,0 +1,20 @@
+{
+    "AC_ON" : {
+        "type" : 3,
+        "value" : 1
+    },
+    "AC_OFF" : {
+        "type" : 3,
+        "value" : 0
+    }
+    ,
+    "TEMP_SET" : {
+        "type" : 4,
+        "value" : 19
+    }
+    ,
+    "FAN_SPEED" : {
+        "type" : 5,
+        "value" : 0
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "Lights": [
+        {
+            "location" : "balcony",
+            "subnetid" : 1,
+            "deviceid" : 28,
+            "channel"  : 12,
+            "status"   : 0
+        },
+        {
+            "location" : "corridor",
+            "subnetid" : 1,
+            "deviceid" : 28,
+            "channel"  : 3,
+            "status"   : 0
+        },
+        {
+            "location" : "livingarea",
+            "subnetid" : 1,
+            "deviceid" : 28,
+            "channel"  : 2,
+            "status"   : 0
+        },
+        {
+            "location" : "bedroom",
+            "subnetid" : 1,
+            "deviceid" : 28,
+            "channel"  : 1,
+            "status"   : 0
+        }
+    ],
+    "ddp": [
+        {
+            "subnetid" : 1,
+            "deviceid" : 212
+        }
+    ],
+    "led" : [
+        {
+            "subnetid" : 1,
+            "deviceid" : 38
+        }
+    ],
+    "music" : [
+        {
+            "subnetid" : 1,
+            "deviceid" : 200
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "interval": 5000,
+    "ipAddress": "192.168.137.1",
+    "relays":   [
+        {"subnetid": 1, "deviceid": 28}
+],
+
+    "relays4z": [
+        {"subnetid": 1, "deviceid": 132},
+        {"subnetid": 1, "deviceid": 133},
+        {"subnetid": 1, "deviceid": 134},
+        {"subnetid": 1, "deviceid": 135},
+        {"subnetid": 1, "deviceid": 136}
+  
+    ],
+    "modbusConfig": [        
+        {"sub":1,"id":100, "mbid": 1, "noc": 8},
+        {"sub":1,"id":101, "mbid":13, "noc": 12},
+        {"sub":1,"id":102, "mbid":25, "noc": 12},
+        {"sub":1,"id":150, "mbid":73, "noc": 8},
+        {"sub":1,"id":151, "mbid":85, "noc": 8},
+        {"sub":1,"id":152, "mbid":97, "noc": 8},
+        {"sub":1,"id":153, "mbid":109, "noc": 8},
+        {"sub":1,"id":154, "mbid":121, "noc": 12},
+        {"sub":1,"id":155, "mbid":133, "noc": 12},
+        {"sub":1,"id":156, "mbid":145, "noc": 12},
+        {"sub":1,"id":157, "mbid":157, "noc": 12},
+        {"sub":1,"id":158, "mbid":169, "noc": 12},
+        {"sub":1,"id":132, "mbid":181, "noc": 4},
+        {"sub":1,"id":133, "mbid":193, "noc": 4},
+        {"sub":1,"id":134, "mbid":205, "noc": 4},
+        {"sub":1,"id":135, "mbid":217, "noc": 4},
+        {"sub":1,"id":136, "mbid":229, "noc": 4}
+        
+        ],
+    "logEnable":false,
+    "mbPort":7729,
+    "coilSize":2000,
+    "holdingSize":2000
+    
+} 
